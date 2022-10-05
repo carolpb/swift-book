@@ -35,22 +35,22 @@
 - A seção <doc:LexicalStructure#Identifiers> foi atualizada
   com informações sobre identificadores que começam com um subtraço.
 
-**2021-04-26** <--------------------------------------------------------------------------------
+**26-04-2021**
 
-- Updated for Swift 5.4.
-- Added the <doc:AdvancedOperators#Result-Builders>
-  and <doc:Attributes#resultBuilder> sections
-  with information about result builders.
-- Added the <doc:Expressions#Implicit-Conversion-to-a-Pointer-Type> section
-  with information about how in-out parameters
-  can be implicitly converted to unsafe pointers in a function call.
-- Updated the <doc:Functions#Variadic-Parameters>
-  and <doc:Declarations#Function-Declaration> sections,
-  now that a function can have multiple variadic parameters.
-- Updated the <doc:Expressions#Implicit-Member-Expression> section,
-  now that implicit member expressions can be chained together.
+- Atualizado para o Swift 5.4.
+- Foram adicionadas as seções <doc:AdvancedOperators#Result-Builders>
+  e <doc:Attributes#resultBuilder> com informações
+  sobre _result builders_.
+- Foi adicionada a seção <doc:Expressions#Implicit-Conversion-to-a-Pointer-Type>
+  com informações sobre como parâmetros _in-out_
+  podem ser implicitamente convertidos par aponteiros não seguros.
+- Foram atualizadas as seções <doc:Functions#Variadic-Parameters>
+  e <doc:Declarations#Function-Declaration>,
+  agora que a função pode ter múltiplos parâmetros.
+- Foi atualizada a seção <doc:Expressions#Implicit-Member-Expression>,
+  agora que expressões de membros implícitos podem ser aninhadas juntas.
 
-**2020-09-16**
+**16-09-2020**
 
 - Updated for Swift 5.3.
 - Added information about multiple trailing closures
