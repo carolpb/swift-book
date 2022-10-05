@@ -2,40 +2,40 @@
 
 # Document Revision History
 
-**2022-06-06**
+**06-06-2022**
 
-- Updated for Swift 5.7.
-- Added the <doc:Concurrency#Sendable-Types> section,
-  with information about sending data between actors and tasks,
-  and added information about the `@Sendable` and `@unchecked` attributes
-  to the <doc:Attributes#Sendable> and <doc:Attributes#unchecked> sections.
-- Added the <doc:LexicalStructure#Regular-Expression-Literals> section
-  with information about creating a regular expression.
-- Added information about the short form of `if`-`let`
-  to the <doc:TheBasics#Optional-Binding> section.
-- Added information about `#unavailable`
-  to the <doc:ControlFlow#Checking-API-Availability> section.
+- Atualizado para o Swift 5.7.
+- Foi adicionada a seção <doc:Concurrency#Sendable-Types>,
+  com informação a respeito do envio de dados entre atores e tarefas,
+  e foi adicionada informação sobre os atributos `@Sendable` e `@unchecked` 
+  para as seções <doc:Attributes#Sendable> e <doc:Attributes#unchecked>.
+- Foi adicionada a seção <doc:LexicalStructure#Regular-Expression-Literals>
+  com informações sobre criar uma expressão regular.
+- Foi adicionada informação sobre a forma curta de `if`-`let`
+  para a seção <doc:TheBasics#Optional-Binding>.
+- Foi adicionada informação sobre `#unavailable`
+  para a seção <doc:ControlFlow#Checking-API-Availability>.
 
-**2022-03-14**
+**14-03-2022**
 
-- Updated for Swift 5.6.
-- Updated the <doc:Expressions#Explicit-Member-Expression> section
-  with information about using `#if`
-  around chained method calls and other postfix expressions.
-- Updated the visual styling of figures throughout.
+- Atualizado para o Swift 5.6.
+- A seção <doc:Expressions#Explicit-Member-Expression> foi atualizada com
+  informações sobre o uso do `#if`
+  em chamadas de métodos aninhados e outras expressões postfix.
+- Foi atualizado o estilo visual das figuras de todo o documento.
 
-**2021-09-20**
+**20-09-2021**
 
-- Updated for Swift 5.5.
-- Added information about asynchronous functions, tasks, and actors
-  to the <doc:Concurrency> chapter,
-  and to the <doc:Declarations#Actor-Declaration>,
-  <doc:Declarations#Asynchronous-Functions-and-Methods>,
-  and <doc:Expressions#Await-Operator> sections.
-- Updated the <doc:LexicalStructure#Identifiers> section
-  with information about identifiers that start with an underscore.
+- Atualizado para o Swift 5.5.
+- Foi adicionada informações sobre funções assíncronas, tarefas e atores
+  ao capítulo <doc:Concurrency>,
+  e às seções <doc:Declarations#Actor-Declaration>,
+  <doc:Declarations#Asynchronous-Functions-and-Methods> 
+  e <doc:Expressions#Await-Operator>.
+- A seção <doc:LexicalStructure#Identifiers> foi atualizada
+  com informações sobre identificadores que começam com um subtraço.
 
-**2021-04-26**
+**2021-04-26** <--------------------------------------------------------------------------------
 
 - Updated for Swift 5.4.
 - Added the <doc:AdvancedOperators#Result-Builders>
